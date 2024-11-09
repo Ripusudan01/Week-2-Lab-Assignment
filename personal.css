@@ -1,0 +1,15 @@
+*{
+    background-color: #fdfdbb; 
+}
+div{
+    margin: 20px;
+}
+h5{
+    text-align: center;
+}
+a{
+    color: red;
+}
+#Footer{
+    margin-top: 150px;
+}

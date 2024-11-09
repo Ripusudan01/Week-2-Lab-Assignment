@@ -1,0 +1,15 @@
+*{
+    background-color: #fdfdbb; 
+}
+a{
+    color: red;
+}
+.highlight {
+    color: #0000ff; 
+}
+#Footer{
+    margin-top: 150px;
+}
+h5{
+    text-align: center;
+}
